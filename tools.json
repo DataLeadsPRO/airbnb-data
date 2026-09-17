@@ -1,0 +1,20 @@
+[
+  {
+    "name": "airbnb_search",
+    "method": "POST",
+    "path": "/airbnb/search",
+    "description": "V1 Airbnb Search"
+  },
+  {
+    "name": "airbnb_details",
+    "method": "POST",
+    "path": "/airbnb/details",
+    "description": "V1 Airbnb Details"
+  },
+  {
+    "name": "airbnb_calendar",
+    "method": "POST",
+    "path": "/airbnb/calendar",
+    "description": "V1 Airbnb Calendar"
+  }
+]
