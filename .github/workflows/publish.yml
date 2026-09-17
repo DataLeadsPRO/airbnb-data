@@ -24,4 +24,4 @@ jobs:
       - uses: docker/build-push-action@v6
         with:
           push: true
-          tags: ghcr.io/dataleads/airbnb-data-mcp:latest
+          tags: ghcr.io/dataleadspro/airbnb-data-mcp:latest
